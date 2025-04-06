@@ -1,0 +1,21 @@
+{
+  "name": "someapp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u00001\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyanb20/project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyanb20/project1/issues"
+  },
+  "homepage": "https://github.com/cyanb20/project1#readme"
+}
