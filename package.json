@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/cyanb20/project1#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
   }
 }
